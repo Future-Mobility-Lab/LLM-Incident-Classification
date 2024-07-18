@@ -1,0 +1,77 @@
+,Model,Language Model,Features,Average Accuracy,Average F1 Score,Average Precision,Average Recall
+0,Light GBM,-,report,0.552,0.545,0.544,0.552
+1,K-Nearest Neighbors,-,report,0.474,0.464,0.471,0.474
+2,Random Forest,-,report,0.583,0.576,0.574,0.583
+3,XGBoost,-,report,0.56,0.553,0.551,0.56
+4,Light GBM,bert,NLP,0.486,0.48,0.478,0.486
+5,K-Nearest Neighbors,bert,NLP,0.422,0.408,0.417,0.422
+6,Random Forest,bert,NLP,0.52,0.519,0.519,0.52
+7,XGBoost,bert,NLP,0.493,0.489,0.487,0.493
+8,Light GBM,bert,report+NLP,0.552,0.546,0.544,0.552
+9,K-Nearest Neighbors,bert,report+NLP,0.469,0.457,0.468,0.469
+10,Random Forest,bert,report+NLP,0.534,0.525,0.524,0.534
+11,XGBoost,bert,report+NLP,0.557,0.552,0.55,0.557
+12,Light GBM,bert-large,NLP,0.491,0.485,0.484,0.491
+13,K-Nearest Neighbors,bert-large,NLP,0.426,0.414,0.422,0.426
+14,Random Forest,bert-large,NLP,0.52,0.517,0.516,0.52
+15,XGBoost,bert-large,NLP,0.503,0.499,0.497,0.503
+16,Light GBM,bert-large,report+NLP,0.559,0.553,0.551,0.559
+17,K-Nearest Neighbors,bert-large,report+NLP,0.465,0.454,0.463,0.465
+18,Random Forest,bert-large,report+NLP,0.534,0.526,0.525,0.534
+19,XGBoost,bert-large,report+NLP,0.556,0.551,0.549,0.556
+20,Light GBM,gpt2,NLP,0.333,0.167,0.111,0.333
+21,K-Nearest Neighbors,gpt2,NLP,0.333,0.167,0.111,0.333
+22,Random Forest,gpt2,NLP,0.333,0.167,0.111,0.333
+23,XGBoost,gpt2,NLP,0.333,0.167,0.111,0.333
+24,Light GBM,gpt2,report+NLP,0.552,0.545,0.544,0.552
+25,K-Nearest Neighbors,gpt2,report+NLP,0.474,0.464,0.471,0.474
+26,Random Forest,gpt2,report+NLP,0.581,0.574,0.572,0.581
+27,XGBoost,gpt2,report+NLP,0.56,0.553,0.551,0.56
+28,Light GBM,roberta,NLP,0.483,0.476,0.475,0.483
+29,K-Nearest Neighbors,roberta,NLP,0.429,0.419,0.426,0.429
+30,Random Forest,roberta,NLP,0.521,0.519,0.517,0.521
+31,XGBoost,roberta,NLP,0.496,0.49,0.488,0.496
+32,Light GBM,roberta,report+NLP,0.549,0.542,0.54,0.549
+33,K-Nearest Neighbors,roberta,report+NLP,0.468,0.457,0.464,0.468
+34,Random Forest,roberta,report+NLP,0.538,0.529,0.528,0.538
+35,XGBoost,roberta,report+NLP,0.552,0.547,0.544,0.552
+36,Light GBM,roberta-large,NLP,0.46,0.457,0.456,0.46
+37,K-Nearest Neighbors,roberta-large,NLP,0.402,0.391,0.398,0.402
+38,Random Forest,roberta-large,NLP,0.496,0.494,0.492,0.496
+39,XGBoost,roberta-large,NLP,0.478,0.475,0.474,0.478
+40,Light GBM,roberta-large,report+NLP,0.533,0.526,0.524,0.533
+41,K-Nearest Neighbors,roberta-large,report+NLP,0.434,0.426,0.435,0.434
+42,Random Forest,roberta-large,report+NLP,0.52,0.512,0.511,0.52
+43,XGBoost,roberta-large,report+NLP,0.538,0.532,0.53,0.538
+44,Light GBM,xlnet,NLP,0.48,0.473,0.472,0.48
+45,K-Nearest Neighbors,xlnet,NLP,0.427,0.418,0.428,0.427
+46,Random Forest,xlnet,NLP,0.518,0.515,0.513,0.518
+47,XGBoost,xlnet,NLP,0.506,0.501,0.499,0.506
+48,Light GBM,xlnet,report+NLP,0.555,0.548,0.547,0.555
+49,K-Nearest Neighbors,xlnet,report+NLP,0.466,0.456,0.467,0.466
+50,Random Forest,xlnet,report+NLP,0.53,0.522,0.521,0.53
+51,XGBoost,xlnet,report+NLP,0.555,0.55,0.548,0.555
+52,Light GBM,xlnet-large,NLP,0.481,0.475,0.474,0.481
+53,K-Nearest Neighbors,xlnet-large,NLP,0.423,0.413,0.421,0.423
+54,Random Forest,xlnet-large,NLP,0.521,0.518,0.516,0.521
+55,XGBoost,xlnet-large,NLP,0.5,0.495,0.494,0.5
+56,Light GBM,xlnet-large,report+NLP,0.552,0.546,0.544,0.552
+57,K-Nearest Neighbors,xlnet-large,report+NLP,0.46,0.451,0.459,0.46
+58,Random Forest,xlnet-large,report+NLP,0.536,0.528,0.527,0.536
+59,XGBoost,xlnet-large,report+NLP,0.553,0.548,0.546,0.553
+60,Light GBM,albert,NLP,0.478,0.472,0.471,0.478
+61,K-Nearest Neighbors,albert,NLP,0.418,0.406,0.416,0.418
+62,Random Forest,albert,NLP,0.515,0.515,0.515,0.515
+63,XGBoost,albert,NLP,0.496,0.492,0.49,0.496
+64,Light GBM,albert,report+NLP,0.552,0.546,0.544,0.552
+65,K-Nearest Neighbors,albert,report+NLP,0.451,0.44,0.451,0.451
+66,Random Forest,albert,report+NLP,0.525,0.516,0.514,0.525
+67,XGBoost,albert,report+NLP,0.552,0.547,0.545,0.552
+68,Light GBM,albert-large,NLP,0.458,0.456,0.455,0.458
+69,K-Nearest Neighbors,albert-large,NLP,0.403,0.392,0.401,0.403
+70,Random Forest,albert-large,NLP,0.493,0.496,0.5,0.493
+71,XGBoost,albert-large,NLP,0.474,0.472,0.471,0.474
+72,Light GBM,albert-large,report+NLP,0.538,0.531,0.529,0.538
+73,K-Nearest Neighbors,albert-large,report+NLP,0.443,0.433,0.442,0.443
+74,Random Forest,albert-large,report+NLP,0.527,0.518,0.518,0.527
+75,XGBoost,albert-large,report+NLP,0.542,0.537,0.535,0.542

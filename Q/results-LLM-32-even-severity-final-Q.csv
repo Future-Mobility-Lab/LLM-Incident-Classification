@@ -1,0 +1,86 @@
+,Language Model,Features,Model,Average Accuracy,Average F1 Score,Average Precision,Average Recall
+0,-,report,Decision Tree,0.6081249999999999,0.6031249999999999,0.600125,0.6081249999999999
+1,-,report,K-Nearest Neighbors,0.4660000000000001,0.448,0.44200000000000006,0.4660000000000001
+2,-,report,Logistic Regression,0.27499999999999997,0.26100000000000007,0.274,0.27499999999999997
+3,-,report,Random Forest,0.65425,0.6469999999999999,0.6492500000000001,0.65425
+4,-,report,XGBoost,0.5750000000000001,0.551,0.568,0.5750000000000001
+5,bert,NLP,Decision Tree,0.562,0.556,0.552,0.562
+6,bert,NLP,K-Nearest Neighbors,0.454,0.435,0.429,0.454
+7,bert,NLP,Logistic Regression,0.329,0.32,0.319,0.329
+8,bert,NLP,Random Forest,0.591,0.589,0.589,0.591
+9,bert,NLP,XGBoost,0.52,0.509,0.503,0.52
+10,bert,report+NLP,Decision Tree,0.455,0.452,0.451,0.455
+11,bert,report+NLP,K-Nearest Neighbors,0.466,0.448,0.442,0.466
+12,bert,report+NLP,Logistic Regression,0.277,0.261,0.277,0.277
+13,bert,report+NLP,Random Forest,0.561,0.54,0.542,0.561
+14,bert,report+NLP,XGBoost,0.585,0.567,0.574,0.585
+15,bert-large,NLP,Decision Tree,0.566,0.56,0.556,0.566
+16,bert-large,NLP,K-Nearest Neighbors,0.462,0.445,0.44,0.462
+17,bert-large,NLP,Logistic Regression,0.325,0.316,0.318,0.325
+18,bert-large,NLP,Random Forest,0.598,0.597,0.597,0.598
+19,bert-large,NLP,XGBoost,0.535,0.526,0.521,0.535
+20,bert-large,report+NLP,Decision Tree,0.46,0.458,0.456,0.46
+21,bert-large,report+NLP,K-Nearest Neighbors,0.466,0.448,0.442,0.466
+22,bert-large,report+NLP,Logistic Regression,0.28,0.262,0.278,0.28
+23,bert-large,report+NLP,Random Forest,0.569,0.548,0.55,0.569
+24,bert-large,report+NLP,XGBoost,0.586,0.568,0.574,0.586
+25,gpt2,NLP,Decision Tree,0.202,0.071,0.348,0.202
+26,gpt2,NLP,K-Nearest Neighbors,0.201,0.069,0.303,0.201
+27,gpt2,NLP,Logistic Regression,0.202,0.07,0.338,0.202
+28,gpt2,NLP,Random Forest,0.202,0.071,0.38,0.202
+29,gpt2,NLP,XGBoost,0.202,0.072,0.393,0.202
+30,gpt2,report+NLP,Decision Tree,0.61,0.605,0.602,0.61
+31,gpt2,report+NLP,K-Nearest Neighbors,0.466,0.448,0.442,0.466
+32,gpt2,report+NLP,Logistic Regression,0.276,0.261,0.276,0.276
+33,gpt2,report+NLP,Random Forest,0.655,0.648,0.65,0.655
+34,gpt2,report+NLP,XGBoost,0.572,0.548,0.563,0.572
+35,mt5,NLP,Decision Tree,0.55,0.544,0.539,0.55
+36,mt5,NLP,K-Nearest Neighbors,0.434,0.411,0.406,0.434
+37,mt5,NLP,Logistic Regression,0.27,0.26,0.263,0.27
+38,mt5,NLP,Random Forest,0.567,0.568,0.57,0.567
+39,mt5,NLP,XGBoost,0.511,0.504,0.499,0.511
+40,mt5,report+NLP,Decision Tree,0.472,0.469,0.466,0.472
+41,mt5,report+NLP,K-Nearest Neighbors,0.466,0.448,0.442,0.466
+42,mt5,report+NLP,Logistic Regression,0.282,0.268,0.283,0.282
+43,mt5,report+NLP,Random Forest,0.57,0.548,0.553,0.57
+44,mt5,report+NLP,XGBoost,0.565,0.541,0.553,0.565
+45,mt5-large,NLP,Decision Tree,0.562,0.555,0.551,0.562
+46,mt5-large,NLP,K-Nearest Neighbors,0.442,0.421,0.415,0.442
+47,mt5-large,NLP,Logistic Regression,0.284,0.278,0.281,0.284
+48,mt5-large,NLP,Random Forest,0.585,0.585,0.587,0.585
+49,mt5-large,NLP,XGBoost,0.527,0.521,0.517,0.527
+50,mt5-large,report+NLP,Decision Tree,0.465,0.462,0.459,0.465
+51,mt5-large,report+NLP,K-Nearest Neighbors,0.466,0.448,0.442,0.466
+52,mt5-large,report+NLP,Logistic Regression,0.28,0.263,0.279,0.28
+53,mt5-large,report+NLP,Random Forest,0.567,0.546,0.55,0.567
+54,mt5-large,report+NLP,XGBoost,0.578,0.558,0.565,0.578
+55,roberta,NLP,Decision Tree,0.566,0.56,0.556,0.566
+56,roberta,NLP,K-Nearest Neighbors,0.46,0.44,0.435,0.46
+57,roberta,NLP,Logistic Regression,0.331,0.319,0.322,0.331
+58,roberta,NLP,Random Forest,0.599,0.598,0.599,0.599
+59,roberta,NLP,XGBoost,0.531,0.521,0.515,0.531
+60,roberta,report+NLP,Decision Tree,0.458,0.456,0.453,0.458
+61,roberta,report+NLP,K-Nearest Neighbors,0.466,0.448,0.442,0.466
+62,roberta,report+NLP,Logistic Regression,0.273,0.257,0.271,0.273
+63,roberta,report+NLP,Random Forest,0.568,0.547,0.549,0.568
+64,roberta,report+NLP,XGBoost,0.582,0.565,0.571,0.582
+65,xlnet,NLP,Decision Tree,0.568,0.562,0.558,0.568
+66,xlnet,NLP,K-Nearest Neighbors,0.47,0.452,0.445,0.47
+67,xlnet,NLP,Logistic Regression,0.34,0.329,0.331,0.34
+68,xlnet,NLP,Random Forest,0.602,0.602,0.603,0.602
+69,xlnet,NLP,XGBoost,0.55,0.541,0.537,0.55
+70,xlnet,report+NLP,Decision Tree,0.458,0.455,0.453,0.458
+71,xlnet,report+NLP,K-Nearest Neighbors,0.466,0.448,0.442,0.466
+72,xlnet,report+NLP,Logistic Regression,0.275,0.258,0.272,0.275
+73,xlnet,report+NLP,Random Forest,0.566,0.543,0.546,0.566
+74,xlnet,report+NLP,XGBoost,0.597,0.579,0.582,0.597
+75,xlnet-large,NLP,Decision Tree,0.565,0.558,0.553,0.565
+76,xlnet-large,NLP,K-Nearest Neighbors,0.469,0.452,0.446,0.469
+77,xlnet-large,NLP,Logistic Regression,0.331,0.32,0.322,0.331
+78,xlnet-large,NLP,Random Forest,0.605,0.604,0.604,0.605
+79,xlnet-large,NLP,XGBoost,0.543,0.534,0.531,0.543
+80,xlnet-large,report+NLP,Decision Tree,0.461,0.458,0.456,0.461
+81,xlnet-large,report+NLP,K-Nearest Neighbors,0.466,0.448,0.442,0.466
+82,xlnet-large,report+NLP,Logistic Regression,0.281,0.264,0.28,0.281
+83,xlnet-large,report+NLP,Random Forest,0.566,0.544,0.546,0.566
+84,xlnet-large,report+NLP,XGBoost,0.586,0.568,0.572,0.586

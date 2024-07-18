@@ -1,0 +1,46 @@
+,Model,Language Model,Features,Average Accuracy,Average F1 Score,Average Precision,Average Recall
+0,K-Nearest Neighbors,bert,NLP,0.871,0.872,0.875,0.871
+1,Logistic Regression,bert,NLP,0.843,0.843,0.847,0.843
+2,Random Forest,bert,NLP,0.875,0.876,0.88,0.875
+3,Decision Tree,bert,NLP,0.808,0.809,0.809,0.809
+4,XGBoost,bert,NLP,0.878,0.877,0.88,0.877
+5,K-Nearest Neighbors,bert-large,NLP,0.872,0.872,0.875,0.871
+6,Logistic Regression,bert-large,NLP,0.835,0.835,0.839,0.835
+7,Random Forest,bert-large,NLP,0.876,0.876,0.879,0.875
+8,Decision Tree,bert-large,NLP,0.802,0.802,0.802,0.803
+9,XGBoost,bert-large,NLP,0.877,0.877,0.878,0.876
+10,K-Nearest Neighbors,gpt2,NLP,0.692,0.686,0.72,0.691
+11,Logistic Regression,gpt2,NLP,0.725,0.725,0.743,0.724
+12,Random Forest,gpt2,NLP,0.73,0.73,0.751,0.729
+13,Decision Tree,gpt2,NLP,0.73,0.73,0.751,0.729
+14,XGBoost,gpt2,NLP,0.73,0.73,0.751,0.729
+15,K-Nearest Neighbors,roberta,NLP,0.785,0.785,0.787,0.785
+16,Logistic Regression,roberta,NLP,0.706,0.7,0.704,0.706
+17,Random Forest,roberta,NLP,0.795,0.794,0.796,0.795
+18,Decision Tree,roberta,NLP,0.688,0.688,0.688,0.688
+19,XGBoost,roberta,NLP,0.797,0.796,0.798,0.797
+20,K-Nearest Neighbors,mt5,NLP,0.75,0.751,0.758,0.75
+21,Logistic Regression,mt5,NLP,0.681,0.68,0.68,0.682
+22,Random Forest,mt5,NLP,0.761,0.76,0.764,0.76
+23,Decision Tree,mt5,NLP,0.619,0.619,0.618,0.619
+24,XGBoost,mt5,NLP,0.762,0.761,0.764,0.762
+25,K-Nearest Neighbors,mt5-large,NLP,0.745,0.745,0.751,0.745
+26,Logistic Regression,mt5-large,NLP,0.662,0.659,0.661,0.662
+27,Random Forest,mt5-large,NLP,0.752,0.751,0.756,0.752
+28,Decision Tree,mt5-large,NLP,0.642,0.642,0.642,0.642
+29,XGBoost,mt5-large,NLP,0.752,0.751,0.755,0.752
+30,K-Nearest Neighbors,xlnet,NLP,0.849,0.849,0.852,0.849
+31,Logistic Regression,xlnet,NLP,0.795,0.794,0.797,0.795
+32,Random Forest,xlnet,NLP,0.851,0.851,0.854,0.851
+33,Decision Tree,xlnet,NLP,0.777,0.777,0.778,0.777
+34,XGBoost,xlnet,NLP,0.853,0.852,0.855,0.853
+35,K-Nearest Neighbors,xlnet-large,NLP,0.835,0.835,0.839,0.835
+36,Logistic Regression,xlnet-large,NLP,0.753,0.75,0.753,0.753
+37,Random Forest,xlnet-large,NLP,0.837,0.837,0.842,0.837
+38,Decision Tree,xlnet-large,NLP,0.748,0.749,0.749,0.749
+39,XGBoost,xlnet-large,NLP,0.833,0.833,0.837,0.833
+-,Decision Tree,report,,0.741,0.74,0.74,0.74
+-,K-Nearest Neighbors,report,,0.67,0.663,0.664,0.668
+-,Logistic Regression,report,,0.609,0.594,0.598,0.608
+-,Random Forest,report,,0.812,0.808,0.81,0.811
+-,XGBoost,report,,0.819,0.816,0.816,0.818
