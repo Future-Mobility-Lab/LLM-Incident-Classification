@@ -1,6 +1,6 @@
 # Traffic Incident Severity Classification
 
-This repository contains scripts and data for analyzing traffic incident severity using various transformer-based language models and machine learning techniques. The repository is organized into several folders to handle different datasets (UK, USA, DESC-only), and consists of scripts for feature extraction and model evaluation. Below is an overview of the repository’s structure and detailed instructions on how to use the provided scripts.
+This repository contains scripts and data for analyzing traffic incident severity using various transformer-based language models and machine learning techniques. The repository is organized into several folders to handle different datasets (UK, Queensland, USA, USA with using  descriptions only), and consists of scripts for feature extraction and model evaluation. Below is an overview of the repository’s structure and detailed instructions on how to use the provided scripts.
 
 ## Repository Structure
 
