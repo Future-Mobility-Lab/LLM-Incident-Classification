@@ -1,0 +1,9 @@
+,Model,Language Model,Features,Average Accuracy,Average F1 Score,Average Precision,Average Recall
+0,Light GBM,distilroberta,NLP,0.868,0.867,0.871,0.867
+1,K-Nearest Neighbors,distilroberta,NLP,0.848,0.848,0.853,0.848
+2,Random Forest,distilroberta,NLP,0.857,0.857,0.862,0.857
+3,XGBoost,distilroberta,NLP,0.869,0.869,0.872,0.869
+4,Light GBM,bert-cased,NLP,0.889,0.889,0.89,0.889
+5,K-Nearest Neighbors,bert-cased,NLP,0.878,0.878,0.881,0.878
+6,Random Forest,bert-cased,NLP,0.88,0.88,0.883,0.88
+7,XGBoost,bert-cased,NLP,0.889,0.889,0.891,0.889
